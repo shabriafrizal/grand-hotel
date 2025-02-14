@@ -1,0 +1,77 @@
+C:\Users\Shab\Documents\TC UBIG\Studi Kasus 2 (Hotel)\desktop\desktop\bin\Debug\desktop.exe.config
+C:\Users\Shab\Documents\TC UBIG\Studi Kasus 2 (Hotel)\desktop\desktop\bin\Debug\desktop.exe
+C:\Users\Shab\Documents\TC UBIG\Studi Kasus 2 (Hotel)\desktop\desktop\bin\Debug\desktop.pdb
+C:\Users\Shab\Documents\TC UBIG\Studi Kasus 2 (Hotel)\desktop\desktop\obj\Debug\desktop.FormLogin.resources
+C:\Users\Shab\Documents\TC UBIG\Studi Kasus 2 (Hotel)\desktop\desktop\obj\Debug\desktop.FormMain.resources
+C:\Users\Shab\Documents\TC UBIG\Studi Kasus 2 (Hotel)\desktop\desktop\obj\Debug\desktop.FormReservation.resources
+C:\Users\Shab\Documents\TC UBIG\Studi Kasus 2 (Hotel)\desktop\desktop\obj\Debug\desktop.Properties.Resources.resources
+C:\Users\Shab\Documents\TC UBIG\Studi Kasus 2 (Hotel)\desktop\desktop\obj\Debug\desktop.csproj.GenerateResource.cache
+C:\Users\Shab\Documents\TC UBIG\Studi Kasus 2 (Hotel)\desktop\desktop\obj\Debug\desktop.csproj.CoreCompileInputs.cache
+C:\Users\Shab\Documents\TC UBIG\Studi Kasus 2 (Hotel)\desktop\desktop\obj\Debug\desktop.exe
+C:\Users\Shab\Documents\TC UBIG\Studi Kasus 2 (Hotel)\desktop\desktop\obj\Debug\desktop.pdb
+C:\Users\Shab\Documents\TC UBIG\Studi Kasus 2 (Hotel)\desktop\desktop\obj\Debug\desktop.MasterRoomType.FormMasterRoomType.resources
+E:\TC UBIG\Studi Kasus 2 (Hotel)\desktop\desktop\bin\Debug\desktop.exe.config
+E:\TC UBIG\Studi Kasus 2 (Hotel)\desktop\desktop\bin\Debug\desktop.exe
+E:\TC UBIG\Studi Kasus 2 (Hotel)\desktop\desktop\bin\Debug\desktop.pdb
+E:\TC UBIG\Studi Kasus 2 (Hotel)\desktop\desktop\obj\Debug\desktop.csproj.AssemblyReference.cache
+E:\TC UBIG\Studi Kasus 2 (Hotel)\desktop\desktop\obj\Debug\desktop.FormLogin.resources
+E:\TC UBIG\Studi Kasus 2 (Hotel)\desktop\desktop\obj\Debug\desktop.FormMain.resources
+E:\TC UBIG\Studi Kasus 2 (Hotel)\desktop\desktop\obj\Debug\desktop.FormReservation.resources
+E:\TC UBIG\Studi Kasus 2 (Hotel)\desktop\desktop\obj\Debug\desktop.MasterRoomType.FormMasterRoomType.resources
+E:\TC UBIG\Studi Kasus 2 (Hotel)\desktop\desktop\obj\Debug\desktop.Properties.Resources.resources
+E:\TC UBIG\Studi Kasus 2 (Hotel)\desktop\desktop\obj\Debug\desktop.csproj.GenerateResource.cache
+E:\TC UBIG\Studi Kasus 2 (Hotel)\desktop\desktop\obj\Debug\desktop.csproj.CoreCompileInputs.cache
+E:\TC UBIG\Studi Kasus 2 (Hotel)\desktop\desktop\obj\Debug\desktop.exe
+E:\TC UBIG\Studi Kasus 2 (Hotel)\desktop\desktop\obj\Debug\desktop.pdb
+E:\TC UBIG\Studi Kasus 2 (Hotel)\desktop\desktop\obj\Debug\desktop.FormMasterRoom.resources
+E:\TC UBIG\Studi Kasus 2 (Hotel)\desktop\desktop\obj\Debug\desktop.FormMasterItem.resources
+C:\Users\Shab\Documents\TC UBIG\Studi Kasus 2 (Hotel)\desktop\desktop\obj\Debug\desktop.FormMasterItem.resources
+C:\Users\Shab\Documents\TC UBIG\Studi Kasus 2 (Hotel)\desktop\desktop\obj\Debug\desktop.FormMasterRoom.resources
+C:\Users\Shab\Documents\TC UBIG\Studi Kasus 2 (Hotel)\desktop\desktop\obj\Debug\desktop.FormCheckin.resources
+C:\Users\Shab\Documents\TC UBIG\Studi Kasus 2 (Hotel)\desktop\desktop\obj\Debug\desktop.FormRequestAdditionalItem.resources
+C:\Users\Shab\Documents\TC UBIG\Studi Kasus 2 (Hotel)\desktop\desktop\obj\Debug\desktop.FormCheckOut.resources
+C:\Users\Shab\Documents\TC UBIG\Studi Kasus 2 (Hotel)\desktop\desktop\obj\Debug\desktop.FormMasterEmployee.resources
+E:\TC UBIG\Studi Kasus 2 (Hotel)\desktop\desktop\obj\Debug\desktop.FormCheckin.resources
+E:\TC UBIG\Studi Kasus 2 (Hotel)\desktop\desktop\obj\Debug\desktop.FormCheckOut.resources
+E:\TC UBIG\Studi Kasus 2 (Hotel)\desktop\desktop\obj\Debug\desktop.FormMasterEmployee.resources
+E:\TC UBIG\Studi Kasus 2 (Hotel)\desktop\desktop\obj\Debug\desktop.FormRequestAdditionalItem.resources
+D:\TC UBIG\Studi Kasus 2 (Hotel)\desktop\desktop\bin\Debug\desktop.exe.config
+D:\TC UBIG\Studi Kasus 2 (Hotel)\desktop\desktop\bin\Debug\desktop.exe
+D:\TC UBIG\Studi Kasus 2 (Hotel)\desktop\desktop\bin\Debug\desktop.pdb
+D:\TC UBIG\Studi Kasus 2 (Hotel)\desktop\desktop\obj\Debug\desktop.csproj.AssemblyReference.cache
+D:\TC UBIG\Studi Kasus 2 (Hotel)\desktop\desktop\obj\Debug\desktop.FormCheckin.resources
+D:\TC UBIG\Studi Kasus 2 (Hotel)\desktop\desktop\obj\Debug\desktop.FormCheckOut.resources
+D:\TC UBIG\Studi Kasus 2 (Hotel)\desktop\desktop\obj\Debug\desktop.FormLogin.resources
+D:\TC UBIG\Studi Kasus 2 (Hotel)\desktop\desktop\obj\Debug\desktop.FormMain.resources
+D:\TC UBIG\Studi Kasus 2 (Hotel)\desktop\desktop\obj\Debug\desktop.FormMasterEmployee.resources
+D:\TC UBIG\Studi Kasus 2 (Hotel)\desktop\desktop\obj\Debug\desktop.FormMasterItem.resources
+D:\TC UBIG\Studi Kasus 2 (Hotel)\desktop\desktop\obj\Debug\desktop.FormMasterRoom.resources
+D:\TC UBIG\Studi Kasus 2 (Hotel)\desktop\desktop\obj\Debug\desktop.FormRequestAdditionalItem.resources
+D:\TC UBIG\Studi Kasus 2 (Hotel)\desktop\desktop\obj\Debug\desktop.FormReservation.resources
+D:\TC UBIG\Studi Kasus 2 (Hotel)\desktop\desktop\obj\Debug\desktop.MasterRoomType.FormMasterRoomType.resources
+D:\TC UBIG\Studi Kasus 2 (Hotel)\desktop\desktop\obj\Debug\desktop.Properties.Resources.resources
+D:\TC UBIG\Studi Kasus 2 (Hotel)\desktop\desktop\obj\Debug\desktop.csproj.GenerateResource.cache
+D:\TC UBIG\Studi Kasus 2 (Hotel)\desktop\desktop\obj\Debug\desktop.csproj.CoreCompileInputs.cache
+D:\TC UBIG\Studi Kasus 2 (Hotel)\desktop\desktop\obj\Debug\desktop.exe
+D:\TC UBIG\Studi Kasus 2 (Hotel)\desktop\desktop\obj\Debug\desktop.pdb
+C:\Users\Shab\Documents\TC UBIG\Studi Kasus 2 (Hotel)\desktop\desktop\obj\Debug\desktop.csproj.AssemblyReference.cache
+C:\Users\Shab\Documents\LKS\Studi Kasus 2 (Hotel)\desktop\desktop\bin\Debug\desktop.exe.config
+C:\Users\Shab\Documents\LKS\Studi Kasus 2 (Hotel)\desktop\desktop\bin\Debug\desktop.exe
+C:\Users\Shab\Documents\LKS\Studi Kasus 2 (Hotel)\desktop\desktop\bin\Debug\desktop.pdb
+C:\Users\Shab\Documents\LKS\Studi Kasus 2 (Hotel)\desktop\desktop\obj\Debug\desktop.csproj.AssemblyReference.cache
+C:\Users\Shab\Documents\LKS\Studi Kasus 2 (Hotel)\desktop\desktop\obj\Debug\desktop.csproj.SuggestedBindingRedirects.cache
+C:\Users\Shab\Documents\LKS\Studi Kasus 2 (Hotel)\desktop\desktop\obj\Debug\desktop.FormCheckin.resources
+C:\Users\Shab\Documents\LKS\Studi Kasus 2 (Hotel)\desktop\desktop\obj\Debug\desktop.FormCheckOut.resources
+C:\Users\Shab\Documents\LKS\Studi Kasus 2 (Hotel)\desktop\desktop\obj\Debug\desktop.FormLogin.resources
+C:\Users\Shab\Documents\LKS\Studi Kasus 2 (Hotel)\desktop\desktop\obj\Debug\desktop.FormMain.resources
+C:\Users\Shab\Documents\LKS\Studi Kasus 2 (Hotel)\desktop\desktop\obj\Debug\desktop.FormMasterEmployee.resources
+C:\Users\Shab\Documents\LKS\Studi Kasus 2 (Hotel)\desktop\desktop\obj\Debug\desktop.FormMasterItem.resources
+C:\Users\Shab\Documents\LKS\Studi Kasus 2 (Hotel)\desktop\desktop\obj\Debug\desktop.FormMasterRoom.resources
+C:\Users\Shab\Documents\LKS\Studi Kasus 2 (Hotel)\desktop\desktop\obj\Debug\desktop.FormRequestAdditionalItem.resources
+C:\Users\Shab\Documents\LKS\Studi Kasus 2 (Hotel)\desktop\desktop\obj\Debug\desktop.FormReservation.resources
+C:\Users\Shab\Documents\LKS\Studi Kasus 2 (Hotel)\desktop\desktop\obj\Debug\desktop.MasterRoomType.FormMasterRoomType.resources
+C:\Users\Shab\Documents\LKS\Studi Kasus 2 (Hotel)\desktop\desktop\obj\Debug\desktop.Properties.Resources.resources
+C:\Users\Shab\Documents\LKS\Studi Kasus 2 (Hotel)\desktop\desktop\obj\Debug\desktop.csproj.GenerateResource.cache
+C:\Users\Shab\Documents\LKS\Studi Kasus 2 (Hotel)\desktop\desktop\obj\Debug\desktop.csproj.CoreCompileInputs.cache
+C:\Users\Shab\Documents\LKS\Studi Kasus 2 (Hotel)\desktop\desktop\obj\Debug\desktop.exe
+C:\Users\Shab\Documents\LKS\Studi Kasus 2 (Hotel)\desktop\desktop\obj\Debug\desktop.pdb
